@@ -16,6 +16,6 @@ Used files are listed as below:
 * bikeshare.py
 
 ### Credits
-Repo is forked from https://github.com/udacity/pdsnd_github.
-Project is provided by Udacity. 
+* Repo is forked from https://github.com/udacity/pdsnd_github.
+* Project is provided by Udacity. 
 
