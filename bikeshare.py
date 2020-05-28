@@ -210,7 +210,7 @@ def user_stats(df):
     print('-'*40)
 
 
-       
+#display_data function will provide the functionality of showing the raw data. 
 def display_data(df):
     user_choice = input('Do you want to see raw data? Enter yes or no.\n')
     row_num = 0
