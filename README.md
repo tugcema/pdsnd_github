@@ -15,3 +15,7 @@ Used files are listed as below:
 * washington.csv
 * bikeshare.py
 
+### Credits
+Repo is forked from https://github.com/udacity/pdsnd_github.
+Project is provided by Udacity. 
+
