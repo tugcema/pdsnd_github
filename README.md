@@ -2,7 +2,7 @@
 This project is created on 28.05.2020
 
 ### Project Title
-**Explore US Bikeshare Data**
+Explore US Bikeshare Data
 
 
 ### Description
